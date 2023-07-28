@@ -20,6 +20,7 @@ body {
 
 .header {
     background-image: url(Shape/Frame\ 58.jpg);
+    background-repeat: no-repeat;
     margin-bottom: 80px;
 }
 
@@ -36,7 +37,7 @@ body {
 }
 
 .Infu-information {
-    background-image: url(developer.png);
+    background-image: url(Shape/Frame\ 58.jpg);
     background-repeat: no-repeat;
     margin-bottom: 100px;
 
@@ -52,4 +53,23 @@ body {
     margin-left: 2%;
     margin-right: 2%;
     padding-left: 10px;
+}
+
+.para {
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 40px 10px;
+    width: 50%;
+}
+
+.last-part {
+    background-image: url(Shape/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.justify {
+    padding-left: 20px;
 }
